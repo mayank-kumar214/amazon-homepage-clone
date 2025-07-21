@@ -121,11 +121,6 @@ Amazon/
 - Complete navigation with all elements visible
 - Optimized for large screens with proper spacing
 
-### Mobile/Tablet (≤768px)
-- Single-column product layout
-- Simplified navigation (panel options hidden)
-- Responsive search bar and cart functionality
-
 ## 🎯 Key Learning Outcomes
 
 - **CSS Flexbox & Grid**: Modern layout techniques
