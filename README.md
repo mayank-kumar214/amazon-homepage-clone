@@ -184,7 +184,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Mayank Kumar**
 - GitHub: [mayank-kumar214](https://github.com/mayank-kumar214)
 - LinkedIn: [mayankconnects](https://linkedin.com/in/mayankconnects)
 - Email: iammayank214@gmail.com
@@ -205,3 +205,4 @@ This project is for educational purposes only. Amazon's trademarks and design el
 ⭐ **Star this repo if you found it helpful!** ⭐
 
 *Built with ❤️ as a front-end development learning project*
+
